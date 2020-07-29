@@ -1,6 +1,10 @@
 
 /* General */
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	margin: 0;
 	color: #383838;
